@@ -1,0 +1,83 @@
+h2 {
+    color: black;
+    font-family: 'Courier New';
+    font-size: 35pt;
+    text-align: center;
+}
+
+hr {
+    position: relative;
+    width: 80%;
+}
+
+.graybox {
+    position: relative;
+    top: 30px;
+    background-color: #f3f3f3;
+    width: 80%;
+    height: 300px;
+    margin: auto;
+}
+
+.profile-img {
+    position: relative;
+    top: 20px;
+    margin-left: 5%;
+    width: 200px;
+    height: 260px;
+}
+
+#name {
+    position: relative;
+    top: -275px;
+    font-family: 'Courier New';
+    font-size: 25pt;
+    margin-left: 22%;
+}
+
+#email {
+    position: relative;
+    top: -300px;
+    font-family: 'Courier New';
+    font-size: 15pt;
+    margin-left: 22%;
+}
+
+.mail {
+    text-decoration: none;
+    color: black
+}
+
+#college {
+    position: relative;
+    top: -275px;
+    font-family: 'Courier New';
+    font-size: 15pt;
+    margin-left: 22%;
+}
+
+.inusite {
+    text-decoration: none;
+    color: black
+}
+
+#major {
+    position: relative;
+    top: -275px;
+    font-family: 'Courier New';
+    font-size: 15pt;
+    margin-left: 22%;
+}
+
+.majorsite {
+    text-decoration: none;
+    color: black
+}
+
+#id {
+    position: relative;
+    top: -275px;
+    font-family: 'Courier New';
+    font-size: 15pt;
+    margin-left: 22%;
+}
